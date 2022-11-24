@@ -1,3 +1,3 @@
 # Machine-Learning-Neural-Networks-Jupyter-Notebooks---UNIPD
 
-Please do not copy and use my original work, consider that the University of Padova is using plagiarism detection algorithm for the similarity detection.
+Private Repository for the beginner homeworks for machine learning and artificial neural networks to take the first step into the deep learning. Also the reports are available for ANNs.
